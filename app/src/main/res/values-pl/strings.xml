@@ -15,10 +15,10 @@
     <string name="action_unarchive">Activate all archived payment codes</string>
     <string name="action_sync_all">Sync all payment codes</string>
 
-    <string name="about_us">About Samourai Wallet</string>
+    <string name="about_us">O Samourai Wallet</string>
 
     <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Anuluj</string>
 
     <string name="options_cat_prefs">Block explorer</string>
     <string name="options_cat_stealth">Stealth</string>
